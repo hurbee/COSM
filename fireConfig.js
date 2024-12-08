@@ -1,4 +1,4 @@
-var firebaseConfig = {
+const firebaseConfig = {
   aapiKey: "AIzaSyA7RQmyepC74QVTwlYBEh4Gb0SciqLEJjM",
   authDomain: "cosm-f0c3c.firebaseapp.com",
   databaseURL: "https://cosm-f0c3c-default-rtdb.asia-southeast1.firebasedatabase.app",
